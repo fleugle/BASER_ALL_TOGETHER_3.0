@@ -32,7 +32,7 @@ length = int(input("Enter a length of your password: "))
 
 # choice
 print("What mode of generation you want to use: ")
-print("(1) Only numbers\n(2) Only letters\n(3) Letters and numbers(Doesn't work now)")
+print("(1) Only numbers\n(2) Only letters\n(3) Letters and numbers")
 choice = int(input("Write a number of a mode: "))
 
 pass_chars = ""
